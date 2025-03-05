@@ -32,8 +32,6 @@ A real-time monitoring tool for tracking the uptime of your Linux system and mon
    */5* * * * * /linux-system-update-monitor/script.sh
    ```
 
-## Screenshots
-![Dashboard Screenshot](screenshots/dashboard.png)
 
 ## Usage Example
 Run the script manually to check the current resource usage:
